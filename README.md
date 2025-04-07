@@ -65,7 +65,7 @@ employee-management-system/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/MylapalliYesebu/employee-management-system.git
+   git clone https://github.com/Uma-Aditya/employee-management-system-.git
    cd employee-management-system
    ```
 
@@ -134,8 +134,8 @@ It serves as a strong foundation for building secure, scalable, and maintainable
 
 ## 🙌 Author
 
-👤 **Mylapalli Yesebu**  
+👤 **Uma Aditya**  
 📧 [yesebumylapalli08@gmail.com](mailto:yesebumylapalli08@gmail.com)  
-🌐 [GitHub Profile](https://github.com/MylapalliYesebu)
+🌐 [GitHub Profile](https://github.com/Uma-Aditya)
 
 If you liked this project, feel free to connect or star the repo ⭐
