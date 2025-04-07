@@ -135,7 +135,7 @@ It serves as a strong foundation for building secure, scalable, and maintainable
 ## 🙌 Author
 
 👤 **Uma Aditya**  
-📧 [yesebumylapalli08@gmail.com](mailto:yesebumylapalli08@gmail.com)  
+📧 [yesebumylapalli08@gmail.com](mailto:mohanaditya706@gmail.com)  
 🌐 [GitHub Profile](https://github.com/Uma-Aditya)
 
 If you liked this project, feel free to connect or star the repo ⭐
